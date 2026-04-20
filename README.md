@@ -1,7 +1,7 @@
 # PoryectoFinalGrado
 Reproductor de música en streaming.
 
-##Descripción del Proyecto
+## Descripción del Proyecto
 Este proyecto fue mi Trabajo de Fin de Grado **(2019)**. Consiste en una **aplicación nativa para Android** capaz de gestionar y reproducir música mediante **streaming** desde un servidor remoto.
 
 ## Características Técnicas
